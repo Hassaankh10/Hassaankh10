@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Muhammad Hassaan Khan
+- 👀 I’m interested in programming
+- 🌱 I’m currently a student of CS at NUCES-KHI
+- 📫 reach me at m.hassaan10.mh10@gmail.com
