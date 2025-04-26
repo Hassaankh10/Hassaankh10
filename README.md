@@ -4,8 +4,8 @@
 - 🎓 Computer Science student at **NUCES - Karachi**
 - 👀 Passionate about **programming**, **system design**, and **tech innovation**
 - 🌱 Currently learning and growing every day
-- 🛠️ Skilled in **Linux Administration**, **Automation**, and **Backend Development**
-- 🧠 Deeply interested in **iOS Development** and **Data Science**
+- 🛠️ Skilled in **Linux Administration**, **Automation**, and **Python**
+- 🧠 Deeply interested in **iOS Development**, **Cloud** and **Data Science**
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
@@ -24,5 +24,5 @@
 </p>
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/muhammad-hassaan-82540b275/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hassaan)
 - 📬 Email me: **m.hassaan10.mh10@gmail.com**
